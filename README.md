@@ -48,18 +48,18 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true&rank_icon=github" />
+    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true&rank_icon=github" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true&rank_icon=github" />
+    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true&rank_icon=github" />
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&count_private=true" />
+    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&count_private=true" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=default&langs_count=6&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&count_private=true" />
+    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=default&langs_count=6&count_private=true" />
+  <img height="165" src="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&count_private=true" />
 </picture>
 
 <br/>
