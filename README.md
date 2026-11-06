@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 #### 📚 Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white)
@@ -25,6 +26,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)
@@ -39,43 +42,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
-
-<br/>
-
----
-
-### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api?username=Mo3oDev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true&rank_icon=github" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&count_private=true" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=default&langs_count=6&count_private=true" />
-  <img height="165" src="https://github-readme-stats-jet-mu-inbcdht23y.vercel.app/api/top-langs/?username=Mo3oDev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&count_private=true" />
-</picture>
-
-<br/>
-<br/>
-
----
-
-<!-- Snake contribution animation — renders after first workflow run -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mo3oDev/Mo3oDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mo3oDev/Mo3oDev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" width="100%"
-    src="https://raw.githubusercontent.com/Mo3oDev/Mo3oDev/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <br/>
 
